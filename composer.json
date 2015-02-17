@@ -9,7 +9,7 @@
             "PDODblibBundle": ""
         }
     },
-    "target-dir": "PDODblibBundle"
+    "target-dir": "PDODblibBundle",
     "require": {
         "php": ">=5.3.3"
     },
